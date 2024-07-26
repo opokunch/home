@@ -2,7 +2,7 @@
 
 header {
     color:#fff;
-    background-color:#0f0;
+    background-color:rgb(75, 150, 75);
     background-image: url(../img/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,12 +23,10 @@ header h1 {
     }
 }
 
-a.yt {
-    color: #f00;
-    text-decoration: underline;
+div.link {
+    text-align: center;
 }
-
 a.x {
-    color: #00f;
+    color: #00ccff;
     text-decoration: underline;
 }
